@@ -84,7 +84,7 @@ class LandingScreen extends StatelessWidget {
               child:  Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  AutoSizeText('Already have Account ?',style: TextStyle(
+                  AutoSizeText('Already have an Account ?',style: TextStyle(
                       color: Colors.white
                   ),),
                   TextButton(
